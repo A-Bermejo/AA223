@@ -4,7 +4,6 @@
     <xsl:template match="/">
     <Webs>
         <xsl:for-each select="/response/row">
-
             <xsl:copy>
                 <xsl:for-each select="row">
                     <xsl:sort select="mes"/>

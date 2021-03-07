@@ -1,0 +1,22 @@
+<avatar>
+    <temporadas>
+        <temporada number="">
+            <book>agua</book>
+            <duration>23</duration>
+            <fisrtBrodcast>21-02-2005</fisrtBrodcast>
+            <lastBrodcast>02-12-2005</lastBrodcast>
+        </temporada>
+        <temporada number="">
+            <book>tierra</book>
+            <duration>23</duration>
+            <fisrtBrodcast>17-03-2006</fisrtBrodcast>
+            <lastBrodcast>01-12-2006</lastBrodcast>
+        </temporada>
+        <temporada number="">
+            <book>fuego</book>
+            <duration>23</duration>
+            <fisrtBrodcast>21-09-2007</fisrtBrodcast>
+            <lastBrodcast>19-07-2008</lastBrodcast>
+        </temporada>
+    </temporadas>
+</avatar>

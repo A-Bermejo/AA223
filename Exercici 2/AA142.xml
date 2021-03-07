@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding= "UTF-8"?>
+<avatar>
+    <temporadas>
+        <temporada numero="1">
+            <libro>agua</libro>
+            <episodios>20</episodios>
+            <duracion tiempo="mins">23</duracion>
+            <primerEmison>21-02-2005</primerEmison>
+            <ultimaEmison>02-12-2005</ultimaEmison>
+        </temporada>
+        <temporada numero="2">
+            <libro>tierra</libro>
+            <episodios>20</episodios>
+            <duracion tiempo="mins">23</duracion>
+            <primerEmison>17-03-2006</primerEmison>
+            <ultimaEmison>01-12-2006</ultimaEmison>
+        </temporada>
+        <temporada numero="3">
+            <libro>fuego</libro>
+            <episodios>21</episodios>
+            <duracion tiempo="mins">23</duracion>
+            <primerEmison>21-09-2007</primerEmison>
+            <ultimaEmison>19-07-2008</ultimaEmison>
+        </temporada>
+    </temporadas>
+    <naciones>
+        <nacion>
+            <nombre>tribu del agua</nombre>
+            <tecnica>agua-control</tecnica>
+        </nacion>
+        <nacion>
+            <nombre>nacion del fuego</nombre>
+            <tecnica>fuego-control</tecnica>
+        </nacion>
+        <nacion>
+            <nombre>nomadas del aire</nombre>
+            <tecnica>aire-control</tecnica>
+        </nacion>
+        <nacion>
+            <nombre>reino de la tierra</nombre>
+            <tecnica>tierra-control</tecnica>
+        </nacion>
+    </naciones>
+    <personajes>
+        <personaje>
+            <nombre sexo="hombre">Aang</nombre>
+            <origen>nomadas del aire</origen>
+            <edad>112</edad>
+            <maestro>si</maestro>
+            <tecnicas>arie-control, fuego-control, agua-control, tierra-control</tecnicas>
+            <estado>muerto</estado>
+        </personaje>
+        <personaje>
+            <nombre sexo="mujer">Katara</nombre>
+            <origen>tribu del agua</origen>
+            <edad>14</edad>
+            <maestro>si</maestro>
+            <tecnicas>agua-control</tecnicas>
+            <estado>vivo</estado>
+        </personaje>
+        <personaje>
+            <nombre sexo="hombre">Sokka</nombre>
+            <origen>tribu del agua</origen>
+            <edad>16</edad>
+            <tecnicas>no tiene</tecnicas>
+            <estado>muerto</estado>
+        </personaje>
+        <personaje>
+            <nombre sexo="hombre">Zuko</nombre>
+            <origen>nacion del fuego</origen>
+            <edad>16</edad>
+            <tecnicas>fuego-control</tecnicas>
+            <estado>vivo</estado>
+        </personaje>
+    </personajes>
+    <voces>
+        <voz personaje="aang">
+            <original idioma="ingles">Zach Tyler Eisen</original>
+            <doblaje idioma="español">Carlos Bautista</doblaje>
+        </voz>
+        <voz personaje="katara">
+            <original idioma="ingles">Mae Whitman</original>
+            <doblaje idioma="español">Pilar Puebla</doblaje>
+        </voz>
+        <voz personaje="sokka">
+            <original idioma="ingles">Jack DeSena</original>
+            <doblaje idioma="español">Javier Balas</doblaje>
+        </voz>
+        <voz personaje="zuko">
+            <original idioma="ingles">Dante Basco</original>
+            <doblaje idioma="español">Rais David Bascones</doblaje>
+        </voz>
+    </voces>
+</avatar>
+

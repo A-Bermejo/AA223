@@ -1,10 +1,13 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+
     <xsl:template match="/">
+
         <Webs>
             <xsl:for-each select="/response/row">
+
                 <xsl:copy>
                     <xsl:for-each select="row">
-                        <xsl:sort select="mes"/>
+                        <xsl:sort select="usuaris" data-type="number"/>
 
                         <xsl:copy>
                             <xsl:if test="any = 2020 ">
@@ -31,5 +34,12 @@
                 </xsl:copy>
             </xsl:for-each>
         </Webs>
+    <xsl:template match="@*">
+        <xsl:copy />
     </xsl:template>
+    <xsl:template match="text()">
+        <xsl:value-of select="normalize-space(.)" />
+
+    </xsl:template>
+
 </xsl:stylesheet>

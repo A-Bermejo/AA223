@@ -1,0 +1,1629 @@
+<Webs>
+    <row>
+        <row web="WEB - DGAC_Portal Gencat_N1: GLOBAL_Portal Gencat_N1" url="web.gencat.cat">
+            <mes>abril</mes>
+            <sessions>2358012</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.32</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TSF_SOC_N1: GLOBAL_SOC_N1" url="serveiocupacio.gencat.cat">
+            <mes>abril</mes>
+            <sessions>1319994</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.7</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_Canal Salut Tematic_N1: GLOBAL_Canal Salut Tematic_N1" url="canalsalut.gencat.cat">
+            <mes>abril</mes>
+            <sessions>1036960</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.8</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - INT_Web del Departament d'Interior_N1: GLOBAL_Web del Departament d'Interior_N1" url="interior.gencat.cat">
+            <mes>abril</mes>
+            <sessions>714567</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.93</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TSF_Web del Departament de Treball, Afers Socials i Famílies_N1: GLOBAL_Web del Departament de&#10;                Treball, Afers Socials i Famílies_N1&#10;            " url="treballiaferssocials.gencat.cat">
+            <mes>abril</mes>
+            <sessions>609535</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.56</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Edu365_N1: GLOBAL_Edu365_N1" url="www.edu365.cat">
+            <mes>abril</mes>
+            <sessions>762952</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>5.57</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - DGAC_Portal Gencat_N1: GLOBAL_Portal Gencat_N1" url="ovt.gencat.cat">
+            <mes>abril</mes>
+            <sessions>452821</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.53</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Xarxa Telematica Educativa de Catalunya_N1: GLOBAL_Xarxa Telematica Educativa de&#10;                Catalunya_N1&#10;            " url="xtec.gencat.cat">
+            <mes>abril</mes>
+            <sessions>868669</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.3</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Web del Departament Ensenyament_N1: GLOBAL_Web del Departament Ensenyament_N1" url="ensenyament.gencat.cat">
+            <mes>abril</mes>
+            <sessions>562851</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.61</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_AQUAS Agencia de Qualitat i Avaluacio Sanitaries de Catalunya_N1: GLOBAL_AQUAS Agencia de&#10;                Qualitat i Avaluacio Sanitaries de Catalunya_N1&#10;            " url="aquas.gencat.cat">
+            <mes>abril</mes>
+            <sessions>677338</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.81</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TSF_Treball_N1: GLOBAL_Treball_N1" url="treball.gencat.cat">
+            <mes>abril</mes>
+            <sessions>458441</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.04</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - PDA_ConfinApp_N1: GLOBAL_ConfinApp_N1" url="confinapp.cat">
+            <mes>abril</mes>
+            <sessions>628482</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.21</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="www.meteo.cat">
+            <mes>abril</mes>
+            <sessions>871278</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.68</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - CLT_Llengua Catalana_N1: GLOBAL_Llengua Catalana_N1" url="aplicacions.llengua.gencat.cat">
+            <mes>abril</mes>
+            <sessions>549531</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.6</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_CatSalut_N1: GLOBAL_CatSalut_N1" url="catsalut.gencat.cat">
+            <mes>abril</mes>
+            <sessions>334678</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.49</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - INT_Mossos Esquadra_N1: GLOBAL_Mossos Esquadra_N1" url="mossos.gencat.cat">
+            <mes>abril</mes>
+            <sessions>262601</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.38</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="m.meteo.cat">
+            <mes>abril</mes>
+            <sessions>1157464</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.78</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - PRE_Govern_N1: GLOBAL_Govern_N1" url="govern.cat">
+            <mes>abril</mes>
+            <sessions>255058</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.37</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Que Estudiar_N1: GLOBAL_Que Estudiar_N1" url="queestudiar.gencat.cat">
+            <mes>abril</mes>
+            <sessions>261378</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>5</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_ICS Institut Catala de la Salut_N1: GLOBAL_ICS Institut Catala de la Salut_N1" url="ics.gencat.cat">
+            <mes>abril</mes>
+            <sessions>228429</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.37</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - EMC_Canal Empresa_N1: GLOBAL_Canal Empresa_N1" url="canalempresa.gencat.cat">
+            <mes>abril</mes>
+            <sessions>258791</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.29</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - VEH_Idescat_N1: GLOBAL_Idescat_N1" url="www.idescat.cat">
+            <mes>abril</mes>
+            <sessions>229700</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.34</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - PRE_DOGC_N1: GLOBAL_DOGC_N1" url="dogc.gencat.cat">
+            <mes>abril</mes>
+            <sessions>268131</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.37</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - EMC_Canal Universitats_N1: GLOBAL_Canal Universitats_N1" url="universitats.gencat.cat">
+            <mes>abril</mes>
+            <sessions>241211</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.54</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - DGAC_Cercador_N1: GLOBAL_Cercador_N1" url="cercador.gencat.cat">
+            <mes>abril</mes>
+            <sessions>160001</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.53</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row web="WEB - DGAC_Portal Gencat_N1: GLOBAL_Portal Gencat_N1" url="web.gencat.cat">
+            <mes>agost</mes>
+            <sessions>1483518</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.8</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="www.meteo.cat">
+            <mes>agost</mes>
+            <sessions>1493938</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.76</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Rodalies_N1: GLOBAL_Rodalies_N1" url="rodalies.gencat.cat">
+            <mes>agost</mes>
+            <sessions>1068370</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.78</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="m.meteo.cat">
+            <mes>agost</mes>
+            <sessions>2117676</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.53</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Web del Departament Ensenyament_N1: GLOBAL_Web del Departament Ensenyament_N1" url="ensenyament.gencat.cat">
+            <mes>agost</mes>
+            <sessions>761815</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.78</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - DGAC_Portal Gencat_N1: GLOBAL_Portal Gencat_N1" url="ovt.gencat.cat">
+            <mes>agost</mes>
+            <sessions>489480</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.49</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TSF_SOC_N1: GLOBAL_SOC_N1" url="serveiocupacio.gencat.cat">
+            <mes>agost</mes>
+            <sessions>389009</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.62</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_CatSalut_N1: GLOBAL_CatSalut_N1" url="catsalut.gencat.cat">
+            <mes>agost</mes>
+            <sessions>317931</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.39</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="es.meteocat.gencat.cat">
+            <mes>agost</mes>
+            <sessions>965320</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.53</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - EMC_Canal Universitats_N1: GLOBAL_Canal Universitats_N1" url="universitats.gencat.cat">
+            <mes>agost</mes>
+            <sessions>416366</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.33</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_Canal Salut Tematic_N1: GLOBAL_Canal Salut Tematic_N1" url="canalsalut.gencat.cat">
+            <mes>agost</mes>
+            <sessions>296908</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.77</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="03 - GENCAT - Carpeta ciutadana: GLOBAL_Carpeta ciutadana_N1" url="ovt.gencat.cat">
+            <mes>agost</mes>
+            <sessions>425883</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.69</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_AQUAS Agencia de Qualitat i Avaluacio Sanitaries de Catalunya_N1: GLOBAL_AQUAS Agencia de&#10;                Qualitat i Avaluacio Sanitaries de Catalunya_N1&#10;            " url="aquas.gencat.cat">
+            <mes>agost</mes>
+            <sessions>487010</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.75</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - EMC_Turisme Catalunya_N1: GLOBAL_Turisme Catalunya_N1" url="www.catalunya.com">
+            <mes>agost</mes>
+            <sessions>202746</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.02</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TSF_Web del Departament de Treball, Afers Socials i Famílies_N1: GLOBAL_Web del Departament de&#10;                Treball, Afers Socials i Famílies_N1&#10;            " url="treballiaferssocials.gencat.cat">
+            <mes>agost</mes>
+            <sessions>252637</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.03</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - PRE_DOGC_N1: GLOBAL_DOGC_N1" url="dogc.gencat.cat">
+            <mes>agost</mes>
+            <sessions>278622</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.14</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Que Estudiar_N1: GLOBAL_Que Estudiar_N1" url="queestudiar.gencat.cat">
+            <mes>agost</mes>
+            <sessions>242284</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.89</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - EMC_Accés universitat_N1: GLOBAL_Accés universitat_N1" url="accesuniversitat.gencat.cat">
+            <mes>agost</mes>
+            <sessions>408272</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.49</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - CLT_Llengua Catalana_N1: GLOBAL_Llengua Catalana_N1" url="aplicacions.llengua.gencat.cat">
+            <mes>agost</mes>
+            <sessions>248519</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.47</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - INT_Mossos Esquadra_N1: GLOBAL_Mossos Esquadra_N1" url="mossos.gencat.cat">
+            <mes>agost</mes>
+            <sessions>182262</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.49</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Xarxa Telematica Educativa de Catalunya_N1: GLOBAL_Xarxa Telematica Educativa de&#10;                Catalunya_N1&#10;            " url="xtec.gencat.cat">
+            <mes>agost</mes>
+            <sessions>253887</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.49</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - PRE_Govern_N1: GLOBAL_Govern_N1" url="govern.cat">
+            <mes>agost</mes>
+            <sessions>141329</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>0.95</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - INT_Web del Departament d'Interior_N1: GLOBAL_Web del Departament d'Interior_N1" url="interior.gencat.cat">
+            <mes>agost</mes>
+            <sessions>169150</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.98</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - DGAC_SAC_N1: GLOBAL_SAC_N1" url="sac.gencat.cat">
+            <mes>agost</mes>
+            <sessions>127128</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.7</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - EMC_Agència de Gestió d'Ajuts Universitaris i de Recerca_N1: GLOBAL_Agència de Gestió d'Ajuts&#10;                Universitaris i de Recerca_N1&#10;            " url="agaur.gencat.cat">
+            <mes>agost</mes>
+            <sessions>163429</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.66</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row web="WEB - DGAC_Portal Gencat_N1: GLOBAL_Portal Gencat_N1" url="web.gencat.cat">
+            <mes>febrer</mes>
+            <sessions>1017845</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.63</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Rodalies_N1: GLOBAL_Rodalies_N1" url="rodalies.gencat.cat">
+            <mes>febrer</mes>
+            <sessions>671126</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.52</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Web del Departament Ensenyament_N1: GLOBAL_Web del Departament Ensenyament_N1" url="ensenyament.gencat.cat">
+            <mes>febrer</mes>
+            <sessions>624950</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.48</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Xarxa Telematica Educativa de Catalunya_N1: GLOBAL_Xarxa Telematica Educativa de&#10;                Catalunya_N1&#10;            " url="xtec.gencat.cat">
+            <mes>febrer</mes>
+            <sessions>575974</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.31</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - DGAC_Portal Gencat_N1: GLOBAL_Portal Gencat_N1" url="ovt.gencat.cat">
+            <mes>febrer</mes>
+            <sessions>366385</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.16</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TSF_SOC_N1: GLOBAL_SOC_N1" url="serveiocupacio.gencat.cat">
+            <mes>febrer</mes>
+            <sessions>312376</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.2</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="www.meteo.cat">
+            <mes>febrer</mes>
+            <sessions>483788</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.48</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Edu365_N1: GLOBAL_Edu365_N1" url="www.edu365.cat">
+            <mes>febrer</mes>
+            <sessions>432695</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.04</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - CLT_Llengua Catalana_N1: GLOBAL_Llengua Catalana_N1" url="aplicacions.llengua.gencat.cat">
+            <mes>febrer</mes>
+            <sessions>426166</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>5.19</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Que Estudiar_N1: GLOBAL_Que Estudiar_N1" url="queestudiar.gencat.cat">
+            <mes>febrer</mes>
+            <sessions>307967</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>5.28</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_CatSalut_N1: GLOBAL_CatSalut_N1" url="catsalut.gencat.cat">
+            <mes>febrer</mes>
+            <sessions>219072</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.22</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_Canal Salut Tematic_N1: GLOBAL_Canal Salut Tematic_N1" url="canalsalut.gencat.cat">
+            <mes>febrer</mes>
+            <sessions>200729</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - VEH_Seu Electronica ATC_N1: GLOBAL_Seu Electronica ATC_N1" url="atc.gencat.cat">
+            <mes>febrer</mes>
+            <sessions>246845</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>5.28</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - EMC_Canal Universitats_N1: GLOBAL_Canal Universitats_N1" url="universitats.gencat.cat">
+            <mes>febrer</mes>
+            <sessions>242114</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.09</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - DGAC_SAC_N1: GLOBAL_SAC_N1" url="sac.gencat.cat">
+            <mes>febrer</mes>
+            <sessions>186824</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.68</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - PRE_DOGC_N1: GLOBAL_DOGC_N1" url="dogc.gencat.cat">
+            <mes>febrer</mes>
+            <sessions>265001</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.37</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="m.meteo.cat">
+            <mes>febrer</mes>
+            <sessions>502636</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.5</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - VEH_Idescat_N1: GLOBAL_Idescat_N1" url="www.idescat.cat">
+            <mes>febrer</mes>
+            <sessions>178226</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.57</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TSF_Web del Departament de Treball, Afers Socials i Famílies_N1: GLOBAL_Web del Departament de&#10;                Treball, Afers Socials i Famílies_N1&#10;            " url="treballiaferssocials.gencat.cat">
+            <mes>febrer</mes>
+            <sessions>191046</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.52</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - VEH_Plataforma Contractacio Publica_N1: GLOBAL_Plataforma Contractacio Publica_N1" url="contractaciopublica.gencat.cat">
+            <mes>febrer</mes>
+            <sessions>337945</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.62</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - INT_Mossos Esquadra_N1: GLOBAL_Mossos Esquadra_N1" url="mossos.gencat.cat">
+            <mes>febrer</mes>
+            <sessions>210259</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.26</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - CLT_Llengua Catalana_N1: GLOBAL_Llengua Catalana_N1" url="llengua.gencat.cat">
+            <mes>febrer</mes>
+            <sessions>136121</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.85</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_ICS Institut Catala de la Salut_N1: GLOBAL_ICS Institut Catala de la Salut_N1" url="ics.gencat.cat">
+            <mes>febrer</mes>
+            <sessions>144806</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.72</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - PRE_Portal Jurídic_N1: GLOBAL_Portal Jurídic_N1" url="portaljuridic.gencat.cat">
+            <mes>febrer</mes>
+            <sessions>164678</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.51</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_ACA Agencia Catalana Aigua_N1: GLOBAL_ACA Agencia Catalana Aigua_N1" url="aca.gencat.cat">
+            <mes>febrer</mes>
+            <sessions>98185</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.18</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row web="WEB - DGAC_Portal Gencat_N1: GLOBAL_Portal Gencat_N1" url="web.gencat.cat">
+            <mes>gener</mes>
+            <sessions>1046985</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.62</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="www.meteo.cat">
+            <mes>gener</mes>
+            <sessions>1467845</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.22</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Rodalies_N1: GLOBAL_Rodalies_N1" url="rodalies.gencat.cat">
+            <mes>gener</mes>
+            <sessions>922773</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.54</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="m.meteo.cat">
+            <mes>gener</mes>
+            <sessions>1618004</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.41</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Web del Departament Ensenyament_N1: GLOBAL_Web del Departament Ensenyament_N1" url="ensenyament.gencat.cat">
+            <mes>gener</mes>
+            <sessions>642245</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.71</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - DGAC_Portal Gencat_N1: GLOBAL_Portal Gencat_N1" url="ovt.gencat.cat">
+            <mes>gener</mes>
+            <sessions>415098</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.06</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Xarxa Telematica Educativa de Catalunya_N1: GLOBAL_Xarxa Telematica Educativa de&#10;                Catalunya_N1&#10;            " url="xtec.gencat.cat">
+            <mes>gener</mes>
+            <sessions>598599</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.28</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="es.meteocat.gencat.cat">
+            <mes>gener</mes>
+            <sessions>801950</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.1</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TSF_SOC_N1: GLOBAL_SOC_N1" url="serveiocupacio.gencat.cat">
+            <mes>gener</mes>
+            <sessions>339337</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.17</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - CLT_Llengua Catalana_N1: GLOBAL_Llengua Catalana_N1" url="aplicacions.llengua.gencat.cat">
+            <mes>gener</mes>
+            <sessions>437612</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>5.19</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Edu365_N1: GLOBAL_Edu365_N1" url="www.edu365.cat">
+            <mes>gener</mes>
+            <sessions>397569</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.06</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_CatSalut_N1: GLOBAL_CatSalut_N1" url="catsalut.gencat.cat">
+            <mes>gener</mes>
+            <sessions>225394</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.17</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Que Estudiar_N1: GLOBAL_Que Estudiar_N1" url="queestudiar.gencat.cat">
+            <mes>gener</mes>
+            <sessions>256395</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>5.23</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - PRE_DOGC_N1: GLOBAL_DOGC_N1" url="dogc.gencat.cat">
+            <mes>gener</mes>
+            <sessions>289031</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.14</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - INT_Transit_N1: GLOBAL_Transit_N1" url="cit.transit.gencat.cat">
+            <mes>gener</mes>
+            <sessions>201260</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.11</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - INT_Transit_N1: GLOBAL_Transit_N1" url="transit.gencat.cat">
+            <mes>gener</mes>
+            <sessions>204782</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.74</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - DGAC_SAC_N1: GLOBAL_SAC_N1" url="sac.gencat.cat">
+            <mes>gener</mes>
+            <sessions>181521</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.66</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - VEH_Idescat_N1: GLOBAL_Idescat_N1" url="www.idescat.cat">
+            <mes>gener</mes>
+            <sessions>181311</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.34</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - VEH_Seu Electronica ATC_N1: GLOBAL_Seu Electronica ATC_N1" url="atc.gencat.cat">
+            <mes>gener</mes>
+            <sessions>202557</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.99</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - INT_Web del Departament d'Interior_N1: GLOBAL_Web del Departament d'Interior_N1" url="interior.gencat.cat">
+            <mes>gener</mes>
+            <sessions>178974</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.45</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - EMC_Canal Universitats_N1: GLOBAL_Canal Universitats_N1" url="universitats.gencat.cat">
+            <mes>gener</mes>
+            <sessions>184445</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.06</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - VEH_Plataforma Contractacio Publica_N1: GLOBAL_Plataforma Contractacio Publica_N1" url="contractaciopublica.gencat.cat">
+            <mes>gener</mes>
+            <sessions>340808</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.56</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TSF_Web del Departament de Treball, Afers Socials i Famílies_N1: GLOBAL_Web del Departament de&#10;                Treball, Afers Socials i Famílies_N1&#10;            " url="treballiaferssocials.gencat.cat">
+            <mes>gener</mes>
+            <sessions>182865</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.53</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - CLT_Llengua Catalana_N1: GLOBAL_Llengua Catalana_N1" url="llengua.gencat.cat">
+            <mes>gener</mes>
+            <sessions>128168</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.83</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_ICS Institut Catala de la Salut_N1: GLOBAL_ICS Institut Catala de la Salut_N1" url="ics.gencat.cat">
+            <mes>gener</mes>
+            <sessions>134153</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.78</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row web="WEB - DGAC_Portal Gencat_N1: GLOBAL_Portal Gencat_N1" url="web.gencat.cat">
+            <mes>juliol</mes>
+            <sessions>1842163</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.08</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Web del Departament Ensenyament_N1: GLOBAL_Web del Departament Ensenyament_N1" url="ensenyament.gencat.cat">
+            <mes>juliol</mes>
+            <sessions>1188911</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.52</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Rodalies_N1: GLOBAL_Rodalies_N1" url="rodalies.gencat.cat">
+            <mes>juliol</mes>
+            <sessions>1125609</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.54</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - DGAC_Portal Gencat_N1: GLOBAL_Portal Gencat_N1" url="ovt.gencat.cat">
+            <mes>juliol</mes>
+            <sessions>731563</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.63</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Que Estudiar_N1: GLOBAL_Que Estudiar_N1" url="queestudiar.gencat.cat">
+            <mes>juliol</mes>
+            <sessions>945708</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.79</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - EMC_Canal Universitats_N1: GLOBAL_Canal Universitats_N1" url="universitats.gencat.cat">
+            <mes>juliol</mes>
+            <sessions>1078507</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_Canal Salut Tematic_N1: GLOBAL_Canal Salut Tematic_N1" url="canalsalut.gencat.cat">
+            <mes>juliol</mes>
+            <sessions>500524</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.47</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TSF_SOC_N1: GLOBAL_SOC_N1" url="serveiocupacio.gencat.cat">
+            <mes>juliol</mes>
+            <sessions>517551</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.62</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="www.meteo.cat">
+            <mes>juliol</mes>
+            <sessions>946208</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.38</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_CatSalut_N1: GLOBAL_CatSalut_N1" url="catsalut.gencat.cat">
+            <mes>juliol</mes>
+            <sessions>358806</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.37</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="m.meteo.cat">
+            <mes>juliol</mes>
+            <sessions>1283703</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.81</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_AQUAS Agencia de Qualitat i Avaluacio Sanitaries de Catalunya_N1: GLOBAL_AQUAS Agencia de&#10;                Qualitat i Avaluacio Sanitaries de Catalunya_N1&#10;            " url="aquas.gencat.cat">
+            <mes>juliol</mes>
+            <sessions>537678</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.77</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - EMC_Accés universitat_N1: GLOBAL_Accés universitat_N1" url="accesuniversitat.gencat.cat">
+            <mes>juliol</mes>
+            <sessions>779260</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.77</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - PRE_DOGC_N1: GLOBAL_DOGC_N1" url="dogc.gencat.cat">
+            <mes>juliol</mes>
+            <sessions>424550</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.37</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TSF_Web del Departament de Treball, Afers Socials i Famílies_N1: GLOBAL_Web del Departament de&#10;                Treball, Afers Socials i Famílies_N1&#10;            " url="treballiaferssocials.gencat.cat">
+            <mes>juliol</mes>
+            <sessions>314402</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.52</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - INT_Web del Departament d'Interior_N1: GLOBAL_Web del Departament d'Interior_N1" url="interior.gencat.cat">
+            <mes>juliol</mes>
+            <sessions>276035</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.91</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Xarxa Telematica Educativa de Catalunya_N1: GLOBAL_Xarxa Telematica Educativa de&#10;                Catalunya_N1&#10;            " url="xtec.gencat.cat">
+            <mes>juliol</mes>
+            <sessions>431898</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.25</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - CLT_Llengua Catalana_N1: GLOBAL_Llengua Catalana_N1" url="aplicacions.llengua.gencat.cat">
+            <mes>juliol</mes>
+            <sessions>343674</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.57</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - EMC_Turisme Catalunya_N1: GLOBAL_Turisme Catalunya_N1" url="www.catalunya.com">
+            <mes>juliol</mes>
+            <sessions>176395</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>0.95</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - DGAC_SAC_N1: GLOBAL_SAC_N1" url="sac.gencat.cat">
+            <mes>juliol</mes>
+            <sessions>191846</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.7</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="es.meteocat.gencat.cat">
+            <mes>juliol</mes>
+            <sessions>526157</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.84</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - VEH_Seu Electronica ATC_N1: GLOBAL_Seu Electronica ATC_N1" url="atc.gencat.cat">
+            <mes>juliol</mes>
+            <sessions>233499</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>5.56</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - PRE_Govern_N1: GLOBAL_Govern_N1" url="govern.cat">
+            <mes>juliol</mes>
+            <sessions>190445</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.46</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="03 - GENCAT - Carpeta ciutadana: GLOBAL_Carpeta ciutadana_N1" url="ovt.gencat.cat">
+            <mes>juliol</mes>
+            <sessions>227572</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.78</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - INT_Mossos Esquadra_N1: GLOBAL_Mossos Esquadra_N1" url="mossos.gencat.cat">
+            <mes>juliol</mes>
+            <sessions>183456</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.9</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row web="WEB - DGAC_Portal Gencat_N1: GLOBAL_Portal Gencat_N1" url="web.gencat.cat">
+            <mes>juny</mes>
+            <sessions>2248219</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.69</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Web del Departament Ensenyament_N1: GLOBAL_Web del Departament Ensenyament_N1" url="ensenyament.gencat.cat">
+            <mes>juny</mes>
+            <sessions>1690625</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.37</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Que Estudiar_N1: GLOBAL_Que Estudiar_N1" url="queestudiar.gencat.cat">
+            <mes>juny</mes>
+            <sessions>1297460</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.75</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - DGAC_Portal Gencat_N1: GLOBAL_Portal Gencat_N1" url="ovt.gencat.cat">
+            <mes>juny</mes>
+            <sessions>722279</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>5.56</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="www.meteo.cat">
+            <mes>juny</mes>
+            <sessions>1417730</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.97</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TSF_SOC_N1: GLOBAL_SOC_N1" url="serveiocupacio.gencat.cat">
+            <mes>juny</mes>
+            <sessions>533274</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.59</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_CatSalut_N1: GLOBAL_CatSalut_N1" url="catsalut.gencat.cat">
+            <mes>juny</mes>
+            <sessions>454085</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.03</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="m.meteo.cat">
+            <mes>juny</mes>
+            <sessions>2114973</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.42</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Rodalies_N1: GLOBAL_Rodalies_N1" url="rodalies.gencat.cat">
+            <mes>juny</mes>
+            <sessions>608189</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.5</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_Canal Salut Tematic_N1: GLOBAL_Canal Salut Tematic_N1" url="canalsalut.gencat.cat">
+            <mes>juny</mes>
+            <sessions>379777</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.78</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Xarxa Telematica Educativa de Catalunya_N1: GLOBAL_Xarxa Telematica Educativa de&#10;                Catalunya_N1&#10;            " url="xtec.gencat.cat">
+            <mes>juny</mes>
+            <sessions>703671</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.23</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - EMC_Canal Universitats_N1: GLOBAL_Canal Universitats_N1" url="universitats.gencat.cat">
+            <mes>juny</mes>
+            <sessions>641460</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.02</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - INT_Web del Departament d'Interior_N1: GLOBAL_Web del Departament d'Interior_N1" url="interior.gencat.cat">
+            <mes>juny</mes>
+            <sessions>339163</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.88</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="es.meteocat.gencat.cat">
+            <mes>juny</mes>
+            <sessions>1018104</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.53</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - CLT_Llengua Catalana_N1: GLOBAL_Llengua Catalana_N1" url="aplicacions.llengua.gencat.cat">
+            <mes>juny</mes>
+            <sessions>426990</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.58</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TSF_Web del Departament de Treball, Afers Socials i Famílies_N1: GLOBAL_Web del Departament de&#10;                Treball, Afers Socials i Famílies_N1&#10;            " url="treballiaferssocials.gencat.cat">
+            <mes>juny</mes>
+            <sessions>327751</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.58</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - PRE_DOGC_N1: GLOBAL_DOGC_N1" url="dogc.gencat.cat">
+            <mes>juny</mes>
+            <sessions>334888</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.4</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Edu365_N1: GLOBAL_Edu365_N1" url="www.edu365.cat">
+            <mes>juny</mes>
+            <sessions>297797</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.41</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - DGAC_SAC_N1: GLOBAL_SAC_N1" url="sac.gencat.cat">
+            <mes>juny</mes>
+            <sessions>196722</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.72</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - VEH_Seu Electronica ATC_N1: GLOBAL_Seu Electronica ATC_N1" url="atc.gencat.cat">
+            <mes>juny</mes>
+            <sessions>227349</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>5.02</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - VEH_Plataforma Contractacio Publica_N1: GLOBAL_Plataforma Contractacio Publica_N1" url="contractaciopublica.gencat.cat">
+            <mes>juny</mes>
+            <sessions>361068</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.36</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - EMC_Turisme Catalunya_N1: GLOBAL_Turisme Catalunya_N1" url="www.catalunya.com">
+            <mes>juny</mes>
+            <sessions>133436</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="static-m.meteo.cat">
+            <mes>juny</mes>
+            <sessions>234959</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.25</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - VEH_Idescat_N1: GLOBAL_Idescat_N1" url="www.idescat.cat">
+            <mes>juny</mes>
+            <sessions>148681</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.01</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - EMC_Accés universitat_N1: GLOBAL_Accés universitat_N1" url="accesuniversitat.gencat.cat">
+            <mes>juny</mes>
+            <sessions>237218</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.47</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row web="WEB - DGAC_Portal Gencat_N1: GLOBAL_Portal Gencat_N1" url="web.gencat.cat">
+            <mes>maig</mes>
+            <sessions>3260301</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.71</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Web del Departament Ensenyament_N1: GLOBAL_Web del Departament Ensenyament_N1" url="ensenyament.gencat.cat">
+            <mes>maig</mes>
+            <sessions>1797405</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.3</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_CatSalut_N1: GLOBAL_CatSalut_N1" url="catsalut.gencat.cat">
+            <mes>maig</mes>
+            <sessions>1016937</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.91</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Que Estudiar_N1: GLOBAL_Que Estudiar_N1" url="queestudiar.gencat.cat">
+            <mes>maig</mes>
+            <sessions>1494844</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.65</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - INT_Web del Departament d'Interior_N1: GLOBAL_Web del Departament d'Interior_N1" url="interior.gencat.cat">
+            <mes>maig</mes>
+            <sessions>842028</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.89</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TSF_SOC_N1: GLOBAL_SOC_N1" url="serveiocupacio.gencat.cat">
+            <mes>maig</mes>
+            <sessions>632574</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.78</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_Canal Salut Tematic_N1: GLOBAL_Canal Salut Tematic_N1" url="canalsalut.gencat.cat">
+            <mes>maig</mes>
+            <sessions>770377</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.95</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TSF_Web del Departament de Treball, Afers Socials i Famílies_N1: GLOBAL_Web del Departament de&#10;                Treball, Afers Socials i Famílies_N1&#10;            " url="treballiaferssocials.gencat.cat">
+            <mes>maig</mes>
+            <sessions>765415</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.88</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Xarxa Telematica Educativa de Catalunya_N1: GLOBAL_Xarxa Telematica Educativa de&#10;                Catalunya_N1&#10;            " url="xtec.gencat.cat">
+            <mes>maig</mes>
+            <sessions>774357</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.28</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="www.meteo.cat">
+            <mes>maig</mes>
+            <sessions>845829</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.74</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Edu365_N1: GLOBAL_Edu365_N1" url="www.edu365.cat">
+            <mes>maig</mes>
+            <sessions>498580</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.58</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_AQUAS Agencia de Qualitat i Avaluacio Sanitaries de Catalunya_N1: GLOBAL_AQUAS Agencia de&#10;                Qualitat i Avaluacio Sanitaries de Catalunya_N1&#10;            " url="aquas.gencat.cat">
+            <mes>maig</mes>
+            <sessions>511105</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.8</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="m.meteo.cat">
+            <mes>maig</mes>
+            <sessions>1226696</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.07</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - DGAC_Portal Gencat_N1: GLOBAL_Portal Gencat_N1" url="ovt.gencat.cat">
+            <mes>maig</mes>
+            <sessions>1393746</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.62</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - VEH_Idescat_N1: GLOBAL_Idescat_N1" url="www.idescat.cat">
+            <mes>maig</mes>
+            <sessions>311112</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.81</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - CLT_Llengua Catalana_N1: GLOBAL_Llengua Catalana_N1" url="aplicacions.llengua.gencat.cat">
+            <mes>maig</mes>
+            <sessions>559471</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.54</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - PRE_DOGC_N1: GLOBAL_DOGC_N1" url="dogc.gencat.cat">
+            <mes>maig</mes>
+            <sessions>310448</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.12</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - EMC_Canal Universitats_N1: GLOBAL_Canal Universitats_N1" url="universitats.gencat.cat">
+            <mes>maig</mes>
+            <sessions>430658</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.94</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Habitatge_N1: GLOBAL_Habitatge_N1" url="habitatge.gencat.cat">
+            <mes>maig</mes>
+            <sessions>308552</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.09</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="es.meteocat.gencat.cat">
+            <mes>maig</mes>
+            <sessions>539326</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.27</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TSF_Treball_N1: GLOBAL_Treball_N1" url="treball.gencat.cat">
+            <mes>maig</mes>
+            <sessions>246811</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.58</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - DGAC_SAC_N1: GLOBAL_SAC_N1" url="sac.gencat.cat">
+            <mes>maig</mes>
+            <sessions>178763</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.59</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_ICS Institut Catala de la Salut_N1: GLOBAL_ICS Institut Catala de la Salut_N1" url="ics.gencat.cat">
+            <mes>maig</mes>
+            <sessions>153503</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.57</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ARP_Web del Departament d'Agricultura, Ramaderia, Pesca i Alimentacio_N1: GLOBAL_Web del&#10;                Departament d'Agricultura, Ramaderia, Pesca i Alimentacio_N1&#10;            " url="agricultura.gencat.cat">
+            <mes>maig</mes>
+            <sessions>173223</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.41</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - VEH_Seu Electronica ATC_N1: GLOBAL_Seu Electronica ATC_N1" url="atc.gencat.cat">
+            <mes>maig</mes>
+            <sessions>196736</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.73</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row web="WEB - SLT_Canal Salut Tematic_N1: GLOBAL_Canal Salut Tematic_N1" url="canalsalut.gencat.cat">
+            <mes>març</mes>
+            <sessions>4163425</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.385129383</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - DGAC_Portal Gencat_N1: GLOBAL_Portal Gencat_N1" url="web.gencat.cat">
+            <mes>març</mes>
+            <sessions>1983638</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.560976196</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - INT_Web del Departament d'Interior_N1: GLOBAL_Web del Departament d'Interior_N1" url="interior.gencat.cat">
+            <mes>març</mes>
+            <sessions>1032168</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.95076546</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Web del Departament Ensenyament_N1: GLOBAL_Web del Departament Ensenyament_N1" url="ensenyament.gencat.cat">
+            <mes>març</mes>
+            <sessions>1213002</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.549091455</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_Sistema Emergencies Mediques_N1: GLOBAL_Sistema Emergencies Mediques_N1" url="sem.gencat.cat">
+            <mes>març</mes>
+            <sessions>841940</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>0.9895281334</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - PRE_Govern_N1: GLOBAL_Govern_N1" url="govern.cat">
+            <mes>març</mes>
+            <sessions>771088</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.189062251</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Edu365_N1: GLOBAL_Edu365_N1" url="www.edu365.cat">
+            <mes>març</mes>
+            <sessions>958343</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>5.625621637</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Xarxa Telematica Educativa de Catalunya_N1: GLOBAL_Xarxa Telematica Educativa de&#10;                Catalunya_N1&#10;            " url="xtec.gencat.cat">
+            <mes>març</mes>
+            <sessions>824643</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.430431148</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TSF_SOC_N1: GLOBAL_SOC_N1" url="serveiocupacio.gencat.cat">
+            <mes>març</mes>
+            <sessions>462024</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.13118579</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_CatSalut_N1: GLOBAL_CatSalut_N1" url="catsalut.gencat.cat">
+            <mes>març</mes>
+            <sessions>394927</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.201455121</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="www.meteo.cat">
+            <mes>març</mes>
+            <sessions>876825</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.552307872</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - DGAC_Portal Gencat_N1: GLOBAL_Portal Gencat_N1" url="ovt.gencat.cat">
+            <mes>març</mes>
+            <sessions>351941</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.904925873</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TSF_Treball_N1: GLOBAL_Treball_N1" url="treball.gencat.cat">
+            <mes>març</mes>
+            <sessions>445558</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.187300606</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - CLT_Llengua Catalana_N1: GLOBAL_Llengua Catalana_N1" url="aplicacions.llengua.gencat.cat">
+            <mes>març</mes>
+            <sessions>480819</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.290236797</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_AQUAS Agencia de Qualitat i Avaluacio Sanitaries de Catalunya_N1: GLOBAL_AQUAS Agencia de&#10;                Qualitat i Avaluacio Sanitaries de Catalunya_N1&#10;            " url="aquas.gencat.cat">
+            <mes>març</mes>
+            <sessions>302091</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.09905001</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Rodalies_N1: GLOBAL_Rodalies_N1" url="rodalies.gencat.cat">
+            <mes>març</mes>
+            <sessions>355924</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.330637533</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - PRE_DOGC_N1: GLOBAL_DOGC_N1" url="dogc.gencat.cat">
+            <mes>març</mes>
+            <sessions>336785</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.379537935</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="m.meteo.cat">
+            <mes>març</mes>
+            <sessions>1077080</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.591538573</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TSF_Web del Departament de Treball, Afers Socials i Famílies_N1: GLOBAL_Web del Departament de&#10;                Treball, Afers Socials i Famílies_N1&#10;            " url="treballiaferssocials.gencat.cat">
+            <mes>març</mes>
+            <sessions>272058</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.817777092</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Que Estudiar_N1: GLOBAL_Que Estudiar_N1" url="queestudiar.gencat.cat">
+            <mes>març</mes>
+            <sessions>279355</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.698520401</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - VEH_Idescat_N1: GLOBAL_Idescat_N1" url="www.idescat.cat">
+            <mes>març</mes>
+            <sessions>212182</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.450139896</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_Web del Departament de Salut_N1: GLOBAL_Web del Departament de Salut_N1" url="salutweb.gencat.cat">
+            <mes>març</mes>
+            <sessions>198616</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.186884659</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - DGAC_Cercador_N1: GLOBAL_Cercador_N1" url="cercador.gencat.cat">
+            <mes>març</mes>
+            <sessions>171146</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.405050756</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - EMC_Canal Empresa_N1: GLOBAL_Canal Empresa_N1" url="canalempresa.gencat.cat">
+            <mes>març</mes>
+            <sessions>189786</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.674856329</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - EMC_Canal Universitats_N1: GLOBAL_Canal Universitats_N1" url="universitats.gencat.cat">
+            <mes>març</mes>
+            <sessions>194615</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.574441162</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row web="WEB - SLT_AQUAS Agencia de Qualitat i Avaluacio Sanitaries de Catalunya_N1: GLOBAL_AQUAS Agencia de&#10;                Qualitat i Avaluacio Sanitaries de Catalunya_N1&#10;            " url="aquas.gencat.cat">
+            <mes>setembre</mes>
+            <sessions>355833</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.62</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - EMC_Turisme Catalunya_N1: GLOBAL_Turisme Catalunya_N1" url="www.catalunya.com">
+            <mes>setembre</mes>
+            <sessions>153526</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.02</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - VEH_Idescat_N1: GLOBAL_Idescat_N1" url="www.idescat.cat">
+            <mes>setembre</mes>
+            <sessions>183662</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.54</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - PRE_Govern_N1: GLOBAL_Govern_N1" url="govern.cat">
+            <mes>setembre</mes>
+            <sessions>188741</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.1</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - VEH_Plataforma Contractacio Publica_N1: GLOBAL_Plataforma Contractacio Publica_N1" url="contractaciopublica.gencat.cat">
+            <mes>setembre</mes>
+            <sessions>359640</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.18</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - DGAC_Portal Gencat_N1: GLOBAL_Portal Gencat_N1" url="web.gencat.cat">
+            <mes>setembre</mes>
+            <sessions>2271907</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.28</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Web del Departament Ensenyament_N1: GLOBAL_Web del Departament Ensenyament_N1" url="ensenyament.gencat.cat">
+            <mes>setembre</mes>
+            <sessions>2026814</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.83</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="www.meteo.cat">
+            <mes>setembre</mes>
+            <sessions>1670507</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.71</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - DGAC_Portal Gencat_N1: GLOBAL_Portal Gencat_N1" url="ovt.gencat.cat">
+            <mes>setembre</mes>
+            <sessions>800192</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.7</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Rodalies_N1: GLOBAL_Rodalies_N1" url="rodalies.gencat.cat">
+            <mes>setembre</mes>
+            <sessions>1065293</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.61</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_CatSalut_N1: GLOBAL_CatSalut_N1" url="catsalut.gencat.cat">
+            <mes>setembre</mes>
+            <sessions>542721</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.48</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="m.meteo.cat">
+            <mes>setembre</mes>
+            <sessions>2161433</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.18</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - SLT_Canal Salut Tematic_N1: GLOBAL_Canal Salut Tematic_N1" url="canalsalut.gencat.cat">
+            <mes>setembre</mes>
+            <sessions>494104</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.8</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TSF_SOC_N1: GLOBAL_SOC_N1" url="serveiocupacio.gencat.cat">
+            <mes>setembre</mes>
+            <sessions>534068</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.77</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="03 - GENCAT - Carpeta ciutadana: GLOBAL_Carpeta ciutadana_N1" url="ovt.gencat.cat">
+            <mes>setembre</mes>
+            <sessions>679202</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.75</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Xarxa Telematica Educativa de Catalunya_N1: GLOBAL_Xarxa Telematica Educativa de&#10;                Catalunya_N1&#10;            " url="xtec.gencat.cat">
+            <mes>setembre</mes>
+            <sessions>748595</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.23</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Meteocat_N1: GLOBAL_Meteocat_N1" url="es.meteocat.gencat.cat">
+            <mes>setembre</mes>
+            <sessions>1053262</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.56</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Que Estudiar_N1: GLOBAL_Que Estudiar_N1" url="queestudiar.gencat.cat">
+            <mes>setembre</mes>
+            <sessions>372976</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.36</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - CLT_Llengua Catalana_N1: GLOBAL_Llengua Catalana_N1" url="aplicacions.llengua.gencat.cat">
+            <mes>setembre</mes>
+            <sessions>395588</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.38</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - EMC_Canal Universitats_N1: GLOBAL_Canal Universitats_N1" url="universitats.gencat.cat">
+            <mes>setembre</mes>
+            <sessions>423023</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.69</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TSF_Web del Departament de Treball, Afers Socials i Famílies_N1: GLOBAL_Web del Departament de&#10;                Treball, Afers Socials i Famílies_N1&#10;            " url="treballiaferssocials.gencat.cat">
+            <mes>setembre</mes>
+            <sessions>330344</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.64</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - PRE_DOGC_N1: GLOBAL_DOGC_N1" url="dogc.gencat.cat">
+            <mes>setembre</mes>
+            <sessions>338278</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>2.36</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - TES_Agencia Catalana Habitatge_N1: GLOBAL_Agencia Catalana Habitatge_N1" url="agenciahabitatge.gencat.cat">
+            <mes>setembre</mes>
+            <sessions>294400</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>4.78</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - DGAC_SAC_N1: GLOBAL_SAC_N1" url="sac.gencat.cat">
+            <mes>setembre</mes>
+            <sessions>217718</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>1.69</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row web="WEB - ENS_Edu365_N1: GLOBAL_Edu365_N1" url="www.edu365.cat">
+            <mes>setembre</mes>
+            <sessions>311428</sessions>
+            <durada_mitjana_de_la_sessi_en_minuts>3.58</durada_mitjana_de_la_sessi_en_minuts>
+        </row>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+        <row/>
+    </row>
+</Webs>
